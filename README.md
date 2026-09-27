@@ -130,13 +130,13 @@ The goal is to uncover **actionable insights** that can inform marketing, sales,
 - Very narrow range (41.3 – 42.6)
 
 ### 4. Customers by Region
-![Customers by Region](images/25.png)
+![Customers by Region](images/14.png)
 
 - South is the largest region
 - North is the smallest
 
 ### 5. Cross-Tabulations (4-Panel View)
-![Cross-Tabulations](images/49.png)
+![Cross-Tabulations](images/19.png)
 
 - Gender vs Segment
 - Region vs Segment
@@ -144,7 +144,7 @@ The goal is to uncover **actionable insights** that can inform marketing, sales,
 - Normalized Segment Distribution
 
 ### 6. Top 10 Postal Codes
-![Postal Codes](images/42.png)
+![Postal Codes](images/12.png)
 
 - Fairly even distribution
 - No dominant postal code
